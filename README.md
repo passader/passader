@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <!-- db -->
 <div align="center">
-  <img src="https://img.shields.io/badge/mariadb-20232a.svg?style=for-the-badge&logo=mariadb&logoColor=#003545" />
+  <img src="https://img.shields.io/badge/mariadb-FFFFFF.svg?style=for-the-badge&logo=mariadb&logoColor=#003545" />
 </div>
 
 <!-- tool -->
