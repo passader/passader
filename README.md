@@ -24,10 +24,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=20232a" />
   <img src="https://img.shields.io/badge/vuedotjs-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=20232a" />
-  <img src="https://img.shields.io/badge/css-20232a.svg?style=for-the-badge&logo=css&logoColor=#663399" />
-  <img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F" />
-  <img src="https://img.shields.io/badge/chartdotjs-20232a.svg?style=for-the-badge&logo=chartdotjs&logoColor=#FF6384" />
-  <img src="https://img.shields.io/badge/jquery-20232a.svg?style=for-the-badge&logo=jquery&logoColor=#0769AD" />
+  <img src="https://img.shields.io/badge/css-663399.svg?style=for-the-badge&logo=css&logoColor=20232a" />
+  <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=20232a" />
+  <img src="https://img.shields.io/badge/chartdotjs-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=20232a" />
+  <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=20232a" />
 </div>
 
 <!-- db -->
@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 <!-- tool -->
 <div align="center">
-  <img src="https://img.shields.io/badge/intellijidea-20232a.svg?style=for-the-badge&logo=intellijidea&logoColor=#000000" />
-  <img src="https://img.shields.io/badge/eclipseide-20232a.svg?style=for-the-badge&logo=eclipseide&logoColor=#2C2255" />
+  <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=20232a" />
+  <img src="https://img.shields.io/badge/eclipseide-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=20232a" />
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=passader&show_icons=true&theme=radical)
