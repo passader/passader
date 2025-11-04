@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0076F7&width=435&lines=PassAder+Github+Repository)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0076F7&width=435&lines=pass+Github+Repository)](https://git.io/typing-svg)
 
 <!-- lib -->
 <div align="center">
