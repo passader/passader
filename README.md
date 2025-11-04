@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 
 <!-- db -->
 <div align="center">
-  <img src="https://img.shields.io/badge/mariadb-FFFFFF.svg?style=for-the-badge&logo=mariadb&logoColor=#003545" />
+  <img src="https://img.shields.io/badge/mariadb-FFFFFF.svg?style=for-the-badge&logo=mariadb&logoColor=000000" />
 </div>
 
 <!-- tool -->
 <div align="center">
-  <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=20232a" />
-  <img src="https://img.shields.io/badge/eclipseide-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=20232a" />
+  <img src="https://img.shields.io/badge/intellijidea-FFFFFF.svg?style=for-the-badge&logo=intellijidea&logoColor=000000" />
+  <img src="https://img.shields.io/badge/eclipseide-FFFFFF.svg?style=for-the-badge&logo=eclipseide&logoColor=000000" />
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=passader&show_icons=true&theme=radical)
