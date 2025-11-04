@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=passader&show_icons=true&theme=radical)
