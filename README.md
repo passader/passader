@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- lib -->
-<img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" /><img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=#E34F26" /><img src="https://img.shields.io/badge/vuedotjs-20232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D" /><img src="https://img.shields.io/badge/css-20232a.svg?style=for-the-badge&logo=css&logoColor=#663399" /><img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F" /><img src="https://img.shields.io/badge/jquery-20232a.svg?style=for-the-badge&logo=jquery&logoColor=#0769AD" />
+<img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" /><img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=#E34F26" /><img src="https://img.shields.io/badge/vuedotjs-20232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D" /><img src="https://img.shields.io/badge/css-20232a.svg?style=for-the-badge&logo=css&logoColor=#663399" /><img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F" /><img src="https://img.shields.io/badge/chartdotjs-20232a.svg?style=for-the-badge&logo=chartdotjs&logoColor=#FF6384" /><img src="https://img.shields.io/badge/jquery-20232a.svg?style=for-the-badge&logo=jquery&logoColor=#0769AD" />
+
 
 <!-- db -->
 <img src="https://img.shields.io/badge/mariadb-20232a.svg?style=for-the-badge&logo=mariadb&logoColor=#003545" />
