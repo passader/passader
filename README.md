@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=PassAder&fontSize=90)
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0076F7&width=435&lines=PassAder+Github+Repository)](https://git.io/typing-svg)
 
 <!-- lib -->
