@@ -38,5 +38,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/intellijidea-FFFFFF.svg?style=for-the-badge&logo=intellijidea&logoColor=000000" />
   <img src="https://img.shields.io/badge/eclipseide-FFFFFF.svg?style=for-the-badge&logo=eclipseide&logoColor=000000" />
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=passader&show_icons=true&theme=radical)
